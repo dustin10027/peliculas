@@ -1,3 +1,17 @@
+## Login
+[![1.jpg](https://i.postimg.cc/ZnkBjJtL/1.jpg)](https://postimg.cc/8JHzzQCF)
+
+## Panel de películas
+
+[![2.jpg](https://i.postimg.cc/0jx5bj1h/2.jpg)](https://postimg.cc/MMPJLWTY)
+
+[![3.jpg](https://i.postimg.cc/Y03rg7p0/3.jpg)](https://postimg.cc/xNXVDWNV)
+
+## Crear películas
+
+[![4.jpg](https://i.postimg.cc/Jn8CQFYk/4.jpg)](https://postimg.cc/ns3WF3JF)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
